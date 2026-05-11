@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Cute table to CSV icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#84ccff"/>
+      <stop offset="100%" stop-color="#4f9cff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="16" y="16" width="224" height="224" rx="56" fill="url(#bg)"/>
+
+  <rect x="44" y="56" width="120" height="132" rx="18" fill="#ffffff" stroke="#1f4aa8" stroke-width="8"/>
+  <line x1="44" y1="96" x2="164" y2="96" stroke="#1f4aa8" stroke-width="8"/>
+  <line x1="84" y1="56" x2="84" y2="188" stroke="#1f4aa8" stroke-width="8"/>
+  <line x1="124" y1="56" x2="124" y2="188" stroke="#1f4aa8" stroke-width="8"/>
+  <line x1="44" y1="136" x2="164" y2="136" stroke="#1f4aa8" stroke-width="8"/>
+
+  <circle cx="75" cy="208" r="10" fill="#1f4aa8"/>
+  <circle cx="133" cy="208" r="10" fill="#1f4aa8"/>
+  <path d="M74 224c6 8 16 12 30 12s24-4 30-12" fill="none" stroke="#1f4aa8" stroke-width="7" stroke-linecap="round"/>
+
+  <rect x="140" y="104" width="78" height="102" rx="12" fill="#fffef7" stroke="#2453b3" stroke-width="7"/>
+  <path d="M194 104v26h24" fill="#e6f0ff"/>
+  <path d="M194 104v26h24" fill="none" stroke="#2453b3" stroke-width="7" stroke-linejoin="round"/>
+
+  <text x="179" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="20" fill="#2453b3">CSV</text>
+
+  <path d="M173 168h26m-26 14h26m-26 14h20" stroke="#2453b3" stroke-width="6" stroke-linecap="round"/>
+</svg>
